@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Orbitron;
+    src: url(fonts/Orbitron-VariableFont_wght.ttf);
+}
+
+#greeting{
+    font-family: Orbitron;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: hsla(0, 100%, 74%, 0.815);
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
