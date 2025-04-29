@@ -15,9 +15,9 @@ body {
     color: #333;
 }   
 
-header {
+/* header {
     font-family: Orbitron;
-}
+} */
 
 #greeting {
     font-family: Orbitron;
@@ -60,12 +60,13 @@ header {
 }
 
 .navbar a:hover {
-    color: #f1c40f;
+    color: #c0392b;
+    ;
     background-color: #34495e;
 }
 
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/hero-bg.jpg');
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/background.jpg');
     background-size: cover;
     color: white;
     text-align: center;
@@ -141,7 +142,7 @@ footer {
 }
 
 .social-links a:hover {
-    color: #f1c40f;
+    color: #c0392b;
 }
 
 .contact-form {
